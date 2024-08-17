@@ -8,8 +8,11 @@ This Python script calculates network jitter by pinging a specified website mult
 
 Dependencies:
  Python 3.x
+ 
  `os` module
+ 
  `time` module
+ 
  `re` module
 
 Usage:
